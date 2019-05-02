@@ -6,7 +6,7 @@
 
 #### Get Record Lengths
 
-```awk ‘{print length{$0}; )’ <file_name>```
+```bash awk ‘{print length{$0}; )’ <file_name>```
 
 #### Get all record lengths and counts of records for each length
 
